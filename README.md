@@ -1,13 +1,13 @@
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm cheedalla sathvik</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Malloju Pavan Seekar</h1>
 
 
 <h3 align="center">Undergraduate | Full-Stack Developer | Tech Geek</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/cheedalla-sathvik-1b9423257/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Sathvik-blue?style=flat&logo=linkedin"/<a>
-  <a href="https://leetcode.com/u/sathvik31/"><img src="https://img.shields.io/badge/LeetCode-sathvik31-orange?style=flat-square&logo=LeetCode" /></a>
-  <a href="mailto:sathvikcheedalla2004@gmail.com"><img src="https://img.shields.io/badge/Email-sathvikcheedalla2004@gmail.com-red?style=flat-square&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/[cheedalla-sathvik-1b9423257](https://www.linkedin.com/in/pavan-malloju/)/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Pavan-blue?style=flat&logo=linkedin"/<a>
+  <a href="https://leetcode.com/u//"><img src="https://img.shields.io/badge/LeetCode-orange?style=flat-square&logo=LeetCode" /></a>
+  <a href="mailto:Pavansreekar.malloju@gmail.com"><img src="https://img.shields.io/badge/Email-Pavansreekar.malloju@gmail.com-red?style=flat-square&logo=gmail" /></a>
 </p>
 
 ---
