@@ -13,7 +13,7 @@
 ---
 
 ## 🚀 About Me
-- 🏫 Final Year CSE Student at Sardar Vallabhbhai National Institute of Technology,Surat.
+- 🏫 Final Year CSE Student at  Amrita Vishwa Vidhyapeetham,Andhra Pradesh.
 - 👨‍💻 Passionate about Full-Stack Development
 - 💻 Currently practicing DSA to strengthen problem-solving skills
 
