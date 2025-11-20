@@ -5,7 +5,7 @@
 <h3 align="center">Undergraduate | Full-Stack Developer | Tech Geek</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/[cheedalla-sathvik-1b9423257](https://www.linkedin.com/in/pavan-malloju/)/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Pavan-blue?style=flat&logo=linkedin"/<a>
+    <a href="https://www.linkedin.com/in/pavan-malloju/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Pavan-blue?style=flat&logo=linkedin"/<a>
   <a href="https://leetcode.com/u//"><img src="https://img.shields.io/badge/LeetCode-orange?style=flat-square&logo=LeetCode" /></a>
   <a href="mailto:Pavansreekar.malloju@gmail.com"><img src="https://img.shields.io/badge/Email-Pavansreekar.malloju@gmail.com-red?style=flat-square&logo=gmail" /></a>
 </p>
